@@ -1,0 +1,6 @@
+Kullanıcı adı : deniz
+Kullanıcı yaş, kilo ve boy bilgisi : res, 57, 96.0
+Kullanıcının vucüt kitle indexi : 29.0
+Kullanıcın değer araliği : Fazla kilolu
+Kayıt tarihi : Sun Apr 30 12:33:11 2023
+--------------------
